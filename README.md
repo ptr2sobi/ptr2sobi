@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ptr2sobi
-- 👀 I’m interested in machine learnining and all natural language processing
+- 👀 I’m interested in machine learnining and natural language processing
 - 🌱 I'm currently working as a Data-Scientist at i2c inc. 
 - 📫 I can be reached at sohaib79here@gmail.com
 
