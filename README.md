@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ptr2sobi
 - 👀 I’m interested in machine learnining and natural language processing
-- 🌱 I'm currently working as a Data-Scientist at i2c inc. 
+- 🌱 I'm currently working as a ML-Scientist at Turing inc. 
 - 📫 I can be reached at sohaib79here@gmail.com
 
 <!---
